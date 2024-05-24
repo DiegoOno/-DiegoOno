@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I have a degree in Computer Science and specialize in front-end and I'm learning back-end web development. I enjoy creating web and mobile applications using modern technologies.
+Hello! I have a degree in Computer Science and specialize in both front-end and back-end web development. I enjoy creating web and mobile applications using modern technologies.
 
 ## Skills and Technologies
 
