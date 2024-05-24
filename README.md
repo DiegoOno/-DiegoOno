@@ -17,4 +17,4 @@ Hello! I have a degree in Computer Science and specialize in front-end and I'm l
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOno&layout=compact&hide_border=true)
